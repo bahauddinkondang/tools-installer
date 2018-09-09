@@ -78,7 +78,7 @@ fi
 
 if [ $satu = "E" ] || [ $satu = "e" ]
 then
-echo $darah"Good Byee..... Jngan lupa share tools ini agar bermanfaat!"
+echo $darah" Good Byee..... Jngan lupa share tools ini agar bermanfaat!"
 exit
 clear
 fi
