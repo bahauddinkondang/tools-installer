@@ -16,6 +16,8 @@ echo '''\a
 \033[34;1m                            |_| '''
 sleep 2
 clear
+echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red"                    HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
 \033[32;1m                            ____
@@ -25,6 +27,8 @@ echo '''\a
 \033[32;1m                          |_____| '''
 sleep 2
 clear
+echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red"                    HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
 \033[35;1m                           _____
@@ -34,6 +38,8 @@ echo '''\a
 \033[35;1m                          |____/ '''
 sleep 2
 clear
+echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red"                    HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
 \033[33;1m                           _  _
@@ -43,6 +49,8 @@ echo '''\a
 \033[33;1m                             |_| '''
 sleep 2
 clear
+echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red"                    HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
 \033[36;1m                            ____
@@ -69,9 +77,8 @@ echo
 echo
 echo
 echo
-echo $green"                     TOOLS SUDAH SELESAI DI INSTALL :)"
-echo $red  "               SELANJUTNYA KETIK (Run) UNTUK MELANJUTKAN TOOLS"
-echo
+echo $green"                    TOOLS SUDAH SELESAI DI INSTALL :)"
+echo $red  "              SELANJUTNYA KETIK (Run) UNTUK MELANJUTKAN TOOLS"
 echo
 echo $white "╭─"$yellow"wellcome to tools-installer"$cyan" ~/subang cyber"$white
 read -p " ╰─$ " kontol
