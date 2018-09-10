@@ -117,5 +117,7 @@ echo
 echo
 if [ $kontol = "Run" ] || [ $kontol = "run" ]
 then
+sleep 1
+File
 sh jomblo.sh
 fi
