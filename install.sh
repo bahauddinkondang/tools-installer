@@ -98,7 +98,7 @@ echo
 echo
 echo
 sleep 1
-toilet -f future "          Install selesai"
+toilet -f future "    Install selesai"
 sleep 5
 clear
 echo
