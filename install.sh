@@ -14,11 +14,11 @@ echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
 echo $red"                      HARAP SABAR MENUNGGU :)"   
 sleep 1
 echo '''\a
-\033[34;1m                             _
-\033[34;1m                            / |
-\033[34;1m                            | |
-\033[34;1m                            | |
-\033[34;1m                            |_| '''
+\033[34;1m                              _
+\033[34;1m                             / |
+\033[34;1m                             | |
+\033[34;1m                             | |
+\033[34;1m                             |_| '''
 sleep 2
 clear
 echo
@@ -29,11 +29,11 @@ echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
 echo $red"                      HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
-\033[32;1m                            ____
-\033[32;1m                           |___ \
-\033[32;1m                            __) |
-\033[32;1m                           / __/
-\033[32;1m                          |_____| '''
+\033[32;1m                             ____
+\033[32;1m                            |___ \
+\033[32;1m                             __) |
+\033[32;1m                            / __/
+\033[32;1m                           |_____| '''
 sleep 2
 clear
 echo
@@ -44,11 +44,11 @@ echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
 echo $red"                      HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
-\033[35;1m                           _____
-\033[35;1m                          |___ /
-\033[35;1m                            |_ \
-\033[35;1m                           ___) |
-\033[35;1m                          |____/ '''
+\033[35;1m                            _____
+\033[35;1m                           |___ /
+\033[35;1m                             |_ \
+\033[35;1m                            ___) |
+\033[35;1m                           |____/ '''
 sleep 2
 clear
 echo
@@ -59,11 +59,11 @@ echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
 echo $red"                      HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
-\033[33;1m                           _  _
-\033[33;1m                          | || |
-\033[33;1m                          | || |_
-\033[33;1m                          |__   _|
-\033[33;1m                             |_| '''
+\033[33;1m                            _  _
+\033[33;1m                           | || |
+\033[33;1m                           | || |_
+\033[33;1m                           |__   _|
+\033[33;1m                              |_| '''
 sleep 2
 clear
 echo
@@ -74,11 +74,11 @@ echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
 echo $red"                      HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
-\033[36;1m                            ____
-\033[36;1m                           | ___|
-\033[36;1m                           |___ \
-\033[36;1m                            ___) |
-\033[36;1m                           |____/ '''
+\033[36;1m                             ____
+\033[36;1m                            | ___|
+\033[36;1m                            |___ \
+\033[36;1m                             ___) |
+\033[36;1m                            |____/ '''
 sleep 2
 clear
 echo
@@ -98,8 +98,8 @@ echo
 echo
 echo
 sleep 1
-toilet -f future "Install selesai"
-sleep 2
+toilet -f future "          Install selesai"
+sleep 5
 clear
 echo
 echo
