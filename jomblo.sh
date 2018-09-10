@@ -4162,7 +4162,7 @@ echo $white"170"$tai"."$cyan" Trape                   " $white"         180"$tai
 echo "_________________________________________________________________" | lolcat
 echo $darah"["$white"N"$darah"]"$tai"."$daun" NEXT TOOLS" $darah"       ["$white"I"$darah"]"$tai"."$daun" INFORMASI TOOLS" $darah"       ["$white"E"$darah"]"$tai"."$daun" EXIT"
 echo "_________________________________________________________________" | lolcat
-echo $white "╭─"$tai"Chemod"$daun"@"$tai"zrd"$darah"404"$cyan" ~/Home 8"$white
+echo $white "╭─"$tai"Chemod"$daun"@"$tai"zrd"$darah"404"$cyan" ~/Home 9"$white
 read -p " ╰─$ " sembilan
 
 fi
