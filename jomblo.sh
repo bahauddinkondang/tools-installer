@@ -4128,13 +4128,550 @@ fi
 
 
 
+#HOME BARU
+
+
+
+
+if [ $dlapan = "N" ] || [ $dlapan = "n" ]
+then
+
+clear
+echo
+echo
+echo
+echo
+echo $ungu"================================================================="
+echo
+toilet -f future "   Tools Installer" | lolcat
+echo $daun"                   Coding"$white" By"$darah":"$daun" Chemod_zrd"$darah"404"
+echo
+echo $ungu"================================================================="
+echo $darah"                      Tools Yg Tersedia"
+echo "_________________________________________________________________" | lolcat
+echo $white"161"$tai"."$cyan" Tool-X                  " $white"         171"$tai"."$cyan" Insta Brute"
+echo $white"162"$tai"."$cyan" Smb-scanner             " $white"         172"$tai"."$cyan" Blackeye"
+echo $white"163"$tai"."$cyan" PasteZort               " $white"         173"$tai"."$cyan" Youbot"
+echo $white"164"$tai"."$cyan" The Harvester           " $white"         174"$tai"."$cyan" LITETOOLS"
+echo $white"165"$tai"."$cyan" Santet Online           " $white"         175"$tai"."$cyan" Multi Spam"
+echo $white"166"$tai"."$cyan" PentesTer               " $white"         176"$tai"."$cyan" Brute Force Gmail"
+echo $white"167"$tai"."$cyan" Heart Bleed             " $white"         177"$tai"."$cyan" Fucking-Rat"
+echo $white"168"$tai"."$cyan" Tembak All Paket        " $white"         178"$tai"."$cyan" Bot Exploiter"
+echo $white"169"$tai"."$cyan" Kubik Boot              " $white"         179"$tai"."$cyan" Email Harvester"
+echo $white"170"$tai"."$cyan" Trape                   " $white"         180"$tai"."$cyan" Boox Sosmed"
+echo "_________________________________________________________________" | lolcat
+echo $darah"["$white"N"$darah"]"$tai"."$daun" NEXT TOOLS" $darah"       ["$white"I"$darah"]"$tai"."$daun" INFORMASI TOOLS" $darah"       ["$white"E"$darah"]"$tai"."$daun" EXIT"
+echo "_________________________________________________________________" | lolcat
+echo $white "╭─"$tai"Chemod"$daun"@"$tai"zrd"$darah"404"$cyan" ~/Home 8"$white
+read -p " ╰─$ " sembilan
+
+fi
+
+
+
+#ALAT PENDUKUNG
+
+
+
+if [ $sembilan = "I" ] || [ $sembilan = "i" ]
+then
+echo
+echo
+echo
+clear
+echo
+echo
+echo
+echo
+toilet -f future "   Informasi Tools" | lolcat
+echo $tai"##########################$daun" WELCOME "$tai###########################"
+echo $daun"Nama Tools"$white":"$darah" Tools Installer"
+echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
+echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
+echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo
+echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
+echo
+echo $darah"                       By"$white":"$darah" Subang Cyber Team"
+echo
+echo $tai"##########################$daun" WELCOME "$tai###########################"
+echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
+echo
+echo $cyan"["$tai"B"$cyan"]"$white"back "$cyan"["$tai"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] " back
+fi
+
+if [ $back = "B" ] || [ $back = "b" ]
+then
+sh jomblo.sh
+fi
+
+if [ $back = "Q" ] || [ $back = "q" ]
+then
+clear
+fi
+
+if [ $sembilan = "E" ] || [ $sembilan = "e" ]
+then
+echo $darah"Good Byee..... Jngan lupa share tools ini agar bermanfaat! "
+exit
+clear
+fi
 
 
 
 
 
+#ISI TOOLS BAGIAN 1
 
-if [ $dlapan = N ] || [ $dlapan = n ]
+
+
+
+
+if [ $sembilan = 161 ] || [ $sembilan = 161 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Rajkumrdusad/Tool-X
+mv Tool-X ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sembilan = 162 ] || [ $sembilan = 162 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/TechnicalMujeeb/smb-scanner
+mv smb-scanner ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 163 ] || [ $sembilan = 163 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/ZettaHack/PasteZort
+mv PasteZort ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sembilan = 164 ] || [ $sembilan = 164 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/laramies/theHarvester
+mv theHarvester ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sembilan = 165 ] || [ $sembilan = 165 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Gameye98/santet-online
+mv santet-online ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sembilan = 166 ] || [ $sembilan = 166 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/mrcakil/PentesTer
+mv PentesTer ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sembilan = 167 ] || [ $sembilan = 167 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/TechnicalMujeeb/HeartBleed
+mv HeartBleed ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sembilan = 168 ] || [ $sembilan = 168 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/kumpul4semut/semut
+mv semut ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sembilan = 169 ] || [ $sembilan = 169 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/radenvodka/kubik-bot
+mv kubik-bot ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sembilan = 170 ] || [ $sembilan = 170 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/boxug/trape
+mv trape ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+#ISI TOOLS BAGIAN 2
+
+
+
+
+
+if [ $sembilan = 171 ] || [ $sembilan = 171 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+pip2 install mechanize
+git clone https://github.com/chinoogawa/instaBrute
+mv instaBrute ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 172 ] || [ $sembilan = 172 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/thelinuxchoice/blackeye
+mv blackeye ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 173 ] || [ $sembilan = 173 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/thelinuxchoice/youbot
+mv youbot ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 174 ] || [ $sembilan = 174 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/4L13199/LITETOOLS
+mv LITETOOLS ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 175 ] || [ $sembilan = 175 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Kereh/MultiSpam
+mv MultiSpam ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 176 ] || [ $sembilan = 176 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/JamesAndresCM/Brute_force_gmail
+mv Brute_force_gmail ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 177 ] || [ $sembilan = 177 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/kereh/Fucking-Rat
+mv Fucking-Rat ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 178 ] || [ $sembilan = 178 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/verluchie/bot-exploiter
+mv bot-exploiter ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 179 ] || [ $sembilan = 179 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/maldevel/EmailHarvester
+mv EmailHarvester ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sembilan = 180 ] || [ $sembilan = 180 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Xeit666h05t/BoxSosmed
+mv BoxSosmed ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+#HOME BARU
+
+
+
+
+if [ $sembilan = "N" ] || [ $sembilan = "n" ]
 then
 sh jomblo.sh
 fi
