@@ -107,6 +107,7 @@ echo
 echo
 echo
 echo $green"                    TOOLS SUDAH SELESAI DI INSTALL :)"
+echo
 echo $red  "              SELANJUTNYA KETIK (Run) UNTUK MELANJUTKAN TOOLS"
 echo
 echo $white "╭─"$yellow"wellcome to tools-installer"$cyan" ~/subang cyber"$white
