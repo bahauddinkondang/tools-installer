@@ -5,34 +5,54 @@ ungu="\033[35;1m"
 cyan="\033[36;1m"
 white="\033[37;1m"
 red="\033[31;1m"
-
+echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
+echo $red"                    HARAP SABAR MENUNGGU :)"   
 sleep 1
 echo '''\a
-\033[31;1m             _
-\033[31;1m            / |
-\033[31;1m            | |
-\033[31;1m            | |
-\033[31;1m            |_| '''
+\033[34;1m                             _
+\033[34;1m                            / |
+\033[34;1m                            | |
+\033[34;1m                            | |
+\033[34;1m                            |_| '''
 sleep 2
 clear
 sleep 1
 echo '''\a
-\033[32;1m            ____
-\033[32;1m           |___ \
-\033[32;1m             __) |
-\033[32;1m            / __/
-\033[32;1m           |_____| '''
+\033[32;1m                            ____
+\033[32;1m                           |___ \
+\033[32;1m                            __) |
+\033[32;1m                           / __/
+\033[32;1m                          |_____| '''
 sleep 2
 clear
 sleep 1
 echo '''\a
-\033[35;1m            _____
-\033[35;1m            |___ /
-\033[35;1m               |_ \
-\033[35;1m             ___) |
-\033[35;1m            |____/ '''
+\033[35;1m                           _____
+\033[35;1m                          |___ /
+\033[35;1m                            |_ \
+\033[35;1m                           ___) |
+\033[35;1m                          |____/ '''
 sleep 2
 clear
+sleep 1
+echo '''\a
+\033[33;1m                           _  _
+\033[33;1m                          | || |
+\033[33;1m                          | || |_
+\033[33;1m                          |__   _|
+\033[33;1m                             |_| '''
+sleep 2
+clear
+sleep 1
+echo '''\a
+\033[36;1m                            ____
+\033[36;1m                           | ___|
+\033[36;1m                           |___ \
+\033[36;1m                            ___) |
+\033[36;1m                           |____/ '''
+sleep 2
+clear
+echo
 echo
 echo $red
 pkg install toilet -y
@@ -43,4 +63,22 @@ clear
 echo $cyan
 gem install figlet -y
 clear
-#WJIB install.sh TERLEBIH DAHULU SEBELUM MENJALANKAN TOOLS INI
+echo
+echo
+echo
+echo
+echo
+echo
+echo $green"                     TOOLS SUDAH SELESAI DI INSTALL :)"
+echo $red  "               SELANJUTNYA KETIK (Run) UNTUK MELANJUTKAN TOOLS"
+echo
+echo
+echo $white "╭─"$yellow"wellcome to tools-installer"$cyan" ~/subang cyber"$white
+read -p " ╰─$ " kontol
+echo
+echo
+echo
+if [ $kontol = "Run" ] || [ $kontol = "run" ]
+then
+sh jomblo.sh
+fi
