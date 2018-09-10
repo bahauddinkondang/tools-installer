@@ -11,7 +11,7 @@ echo
 echo
 echo
 echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
-echo $red"                    HARAP SABAR MENUNGGU :)"   
+echo $red"                      HARAP SABAR MENUNGGU :)"   
 sleep 1
 echo '''\a
 \033[34;1m                             _
@@ -26,7 +26,7 @@ echo
 echo
 echo
 echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
-echo $red"                    HARAP SABAR MENUNGGU :)"
+echo $red"                      HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
 \033[32;1m                            ____
@@ -41,7 +41,7 @@ echo
 echo
 echo
 echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
-echo $red"                    HARAP SABAR MENUNGGU :)"
+echo $red"                      HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
 \033[35;1m                           _____
@@ -56,7 +56,7 @@ echo
 echo
 echo
 echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
-echo $red"                    HARAP SABAR MENUNGGU :)"
+echo $red"                      HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
 \033[33;1m                           _  _
@@ -71,7 +71,7 @@ echo
 echo
 echo
 echo $red"              TOOLS AKAN DI INSTALL DALAM WAKTU 5 DETIK"
-echo $red"                    HARAP SABAR MENUNGGU :)"
+echo $red"                      HARAP SABAR MENUNGGU :)"
 sleep 1
 echo '''\a
 \033[36;1m                            ____
@@ -92,6 +92,15 @@ echo $cyan
 gem install figlet -y
 clear
 echo
+echo
+echo
+echo
+echo
+echo
+sleep 1
+toilet -f future "Install selesai"
+sleep 2
+clear
 echo
 echo
 echo
