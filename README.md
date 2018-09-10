@@ -17,7 +17,6 @@ cd tools-installer
 
 sh install.sh
 
-sh jomblo.sh
 ```
 
 
