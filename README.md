@@ -31,10 +31,18 @@ sh install.sh
 *Info*
 ====
 
-tools termux gabungan isi 160 tools hacking
-
+tools termux gabungan isi 180 tools hacking in one
 tools ini masih dalam tahap penyempurnaan
  
 ***Github***   :
            
            https://github.com/21D4N404
+          
+***Author***   :
+           
+           Chemod_zrd404
+           21D4N404
+           
+***Nama Tools***
+           
+           tools-installer
