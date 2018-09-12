@@ -4484,7 +4484,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/thelinuxchoice/blackeye
+git clone https://github.com/thelinuxchoice/blackeye.git
 mv blackeye ~
 clear
 sleep 1
