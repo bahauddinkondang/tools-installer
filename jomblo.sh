@@ -108,7 +108,7 @@ if [ $satu = 02 ] || [ $satu = 2 ]
 then
 clear
 apt upgrade && apt update -y
-git clone https://github.com/Senitopeng/Botkomena
+git clone https://github.com/Senitopeng/Botkomena.git
 mv Botkomena $HOME
 clear
 sleep 1
@@ -123,7 +123,7 @@ if [ $satu = 03 ] || [ $satu = 3 ]
 then
 clear
 apt update && apt upgrade -y
-git clone https://github.com/Cvar1984/SpiderBot
+git clone https://github.com/Cvar1984/SpiderBot.git
 mv SpiderBot $HOME
 clear
 sleep 1
@@ -184,7 +184,7 @@ then
 clear
 apt update && apt upgrade -y
 apt install python2 -y
-git clone https://github.com/grafov/hulk
+git clone https://github.com/grafov/hulk.git
 mv hulk $HOME
 clear
 sleep 1
@@ -217,7 +217,7 @@ then
 clear
 apt update && apt upgrade -y
 apt install php -y
-git clone https://github.com/Senitopeng/TuyulBtn
+git clone https://github.com/Senitopeng/TuyulBtn.git
 mv TuyulBtn $HOME
 clear
 sleep 1
@@ -232,7 +232,7 @@ if [ $satu = 10 ] || [ $satu = 10 ]
 then
 clear
 apt update && apt upgrade -y
-git clone https://github.com/Gameye98/Lazymux
+git clone https://github.com/Gameye98/Lazymux.git
 mv Lazymux $HOME
 clear
 sleep 1
@@ -250,7 +250,7 @@ then
 clear
 apt update && apt upgrade -y
 apt install python2 -y
-git clone https://github.com/Manisso/fsociety
+git clone https://github.com/Manisso/fsociety.git
 mv fsociety $HOME
 clear
 sleep 1
@@ -300,7 +300,7 @@ if [ $satu = 14 ] || [ $satu = 14 ]
 then
 clear
 apt update && apt upgrade -y
-git clone https://github.com/medbenali/CyberScan
+git clone https://github.com/medbenali/CyberScan.git
 mv CyberScan 
 clear
 sleep 1
@@ -315,7 +315,7 @@ if [ $satu = 15 ] || [ $satu = 15 ]
 then
 clear
 apt update && apt upgrade -y
-git clone https://github.com/mrcakil/cok-Rat
+git clone https://github.com/mrcakil/cok-Rat.git
 mv cok-Rat $HOME
 clear
 sleep 1
@@ -346,7 +346,7 @@ then
 clear
 apt update && apt upgrade -y
 apt install python2 -y
-git clone https://github.com/Gameye98/1337Hash
+git clone https://github.com/Gameye98/1337Hash.git
 mv 1337Hash $HOME
 clear
 sleep 1
@@ -361,7 +361,7 @@ if [ $satu = 18 ] || [ $satu = 18 ]
 then
 clear
 apt update && apt upgrade -y
-git clone https://github.com/verluchie/termux-lazysqlmap
+git clone https://github.com/verluchie/termux-lazysqlmap.git
 mv termux-lazysqlmap $HOME
 clear
 sleep 1
@@ -376,7 +376,7 @@ if [ $satu = 19 ] || [ $satu = 19 ]
 then
 clear
 apt update && apt upgrade -y
-git clone https://github.com/sullo/nikto
+git clone https://github.com/sullo/nikto.git
 mv nikto $HOME
 clear
 sleep 1
@@ -392,7 +392,7 @@ then
 clear
 apt update && apt upgrade -y
 apt install python2 hydra
-git clone https://github.com/Gameye98/Black-Hydra
+git clone https://github.com/Gameye98/Black-Hydra.git
 mv Black-Hydra $HOME
 clear
 sleep 1
@@ -501,7 +501,7 @@ then
 clear
 apt update && apt upgrade -y
 apt install bash
-git clone https://github.com/Hood3dRob1n/BinGoo
+git clone https://github.com/Hood3dRob1n/BinGoo.git
 mv BinGoo $HOME
 clear
 sleep 1
@@ -558,7 +558,7 @@ apt update && apt upgrade -y
 apt install bash
 apt install python2
 apt install git
-git clone https://github.com/Neo-Oli/termux-ubuntu
+git clone https://github.com/Neo-Oli/termux-ubuntu.git
 mv termux-ubuntu $HOME
 clear
 sleep 1
@@ -636,7 +636,7 @@ apt update && apt upgrade -y
 apt install bash
 apt install python2
 apt install git
-git clone https://github.com/Amriez/MamangKey
+git clone https://github.com/Amriez/MamangKey.git
 mv MamangKey $HOME
 clear
 sleep 1
@@ -655,7 +655,7 @@ apt update && apt upgrade -y
 apt install bash
 apt install python2
 apt install git
-git clone https://github.com/pirmansx/myenc
+git clone https://github.com/pirmansx/myenc.git
 mv myenc $HOME
 clear
 sleep 1
@@ -675,7 +675,7 @@ apt install bash
 apt install python2
 apt install git
 pip2 install requests
-git clone https://github.com/Anb3rSecID/Hashzer
+git clone https://github.com/Anb3rSecID/Hashzer.git
 mv Hashzer $HOME
 clear
 sleep 1
@@ -700,7 +700,7 @@ apt install bash
 apt install python2
 apt install git
 pkg install php
-git clone https://github.com/whackashoe/php-spam-mail-honeypot
+git clone https://github.com/whackashoe/php-spam-mail-honeypot.git
 mv php-spam-mail-honeypot $HOME
 clear
 sleep 1
@@ -738,7 +738,7 @@ apt update && apt upgrade -y
 apt install bash
 apt install python2
 apt install git
-git clone https://github.com/pirmansx/hostchecker
+git clone https://github.com/pirmansx/hostchecker.git
 mv hostchecker $HOME
 clear
 sleep 1
@@ -757,7 +757,7 @@ apt update && apt upgrade -y
 apt install bash
 apt install python2
 apt install git
-git clone https://github.com/mossberg/poet
+git clone https://github.com/mossberg/poet.git
 mv poet $HOME
 clear
 sleep 1
@@ -797,7 +797,7 @@ apt install bash
 apt install python2
 pip2 install mechanize
 apt install git
-git clone https://github.com/Senitopeng/fbbrute
+git clone https://github.com/Senitopeng/fbbrute.git
 mv fbbrute $HOME
 clear
 sleep 1
@@ -816,7 +816,7 @@ apt update && apt upgrade -y
 apt install bash
 apt install python2
 apt install git
-git clone https://github.com/pirmansx/mbf
+git clone https://github.com/pirmansx/mbf.git
 mv mbf $HOME
 clear
 sleep 1
@@ -836,7 +836,7 @@ apt install bash
 apt install python2
 apt install git
 pip2 install requests
-git clone https://github.com/avramit/instahack
+git clone https://github.com/avramit/instahack.git
 mv instahack $HOME
 clear
 sleep 1
@@ -856,7 +856,7 @@ apt install bash
 apt install python2
 apt install git
 pip2 install bozocrack
-git clone https://github.com/ikkebr/PyBozoCrack
+git clone https://github.com/ikkebr/PyBozoCrack.git
 mv PyBozoCrack $HOME
 clear
 sleep 1
@@ -993,7 +993,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/UndeadSec/EvilURL
+git clone https://github.com/UndeadSec/EvilURL.git
 mv EvilURL $HOME
 clear
 sleep 1
@@ -1012,7 +1012,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone clone https://github.com/lightos/credmap
+git clone clone https://github.com/lightos/credmap.git
 mv credmap $HOME
 clear
 sleep 1
@@ -1031,7 +1031,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/chrizator/netattack
+git clone https://github.com/chrizator/netattack.git
 mv netattack $HOME
 clear
 sleep 1
@@ -1071,7 +1071,7 @@ apt install python2 -y
 apt install git -y
 pkg install toilet -y
 pkg install figlet -y
-git clone https://github.com/DarknessCyberTeam/B4J1N64Nv5
+git clone https://github.com/DarknessCyberTeam/B4J1N64Nv5.git
 mv B4J1N64Nv5 $HOME
 clear
 sleep 1
@@ -1092,7 +1092,7 @@ apt install python2 -y
 apt install git -y
 pkg install toilet -y
 pkg install figlet -y
-git clone https://github.com/DarknessCyberTeam/B4J1N64Nv6
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6.git
 mv B4J1N64Nv6 $HOME
 clear
 sleep 1
@@ -1111,7 +1111,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/alintamvanz/diejoubu
+git clone https://github.com/alintamvanz/diejoubu.git
 mv diejoubu $HOME
 clear
 sleep 1
@@ -1172,7 +1172,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/thehackingsage/hacktronian
+git clone https://github.com/thehackingsage/hacktronian.git
 mv hacktronian $HOME
 clear
 sleep 1
@@ -1223,7 +1223,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/AnonHackerr/toolss
+git clone https://github.com/AnonHackerr/toolss.git
 mv toolss $HOME
 clear
 sleep 1
@@ -1243,7 +1243,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/rafalgolarz/termux-go
+git clone https://github.com/rafalgolarz/termux-go.git
 mv termux-go $HOME
 clear
 sleep 1
@@ -1263,7 +1263,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/Amriez/Bolang
+git clone https://github.com/Amriez/Bolang.git
 mv Bolang $HOME
 clear
 sleep 1
@@ -1283,7 +1283,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/r00tmars/XPL-SEARCH
+git clone https://github.com/r00tmars/XPL-SEARCH.git
 mv XPL-SEARCH $HOME
 clear
 sleep 1
@@ -1303,7 +1303,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/zigoo0/webpwn3r
+git clone https://github.com/zigoo0/webpwn3r.git
 mv webpwn3r $HOME
 clear
 sleep 1
@@ -1323,7 +1323,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/4L13199/ffont
+git clone https://github.com/4L13199/ffont.git
 mv ffont $HOME
 clear
 sleep 1
@@ -1343,7 +1343,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/4L13199/meTAInstall
+git clone https://github.com/4L13199/meTAInstall.git
 mv meTAInstall $HOME
 clear
 sleep 1
@@ -1363,7 +1363,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/sysadminteam/IPscan
+git clone https://github.com/sysadminteam/IPscan.git
 mv IPscan $HOME
 clear
 sleep 1
@@ -1383,7 +1383,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/sysadminteam/NetKiller
+git clone https://github.com/sysadminteam/NetKiller.git
 mv NetKiller $HOME
 clear
 sleep 1
@@ -1521,7 +1521,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone clone https://github.com/ciku370/OSIF
+git clone clone https://github.com/ciku370/OSIF.git
 mv OSIF $HOME
 cd ~/OSIF
 pip2 install -r requirements.txt
@@ -1544,7 +1544,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 install requests urllib3 urlparse
-git clone https://github.com/m4ll0k/Infoga
+git clone https://github.com/m4ll0k/Infoga.git
 mv Infoga $HOME
 clear
 sleep 1
@@ -1586,7 +1586,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install git nmap
-git clone https://github.com/Gameye98/AstraNmap
+git clone https://github.com/Gameye98/AstraNmap.git
 mv AstraNmap $HOME
 clear
 sleep 1
@@ -1607,7 +1607,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 bs4 requests HTMLParser urlparse mechanize argparse
-git clone https://github.com/Xi4u7/wtf
+git clone https://github.com/Xi4u7/wtf.git
 mv wtf $HOME
 clear
 sleep 1
@@ -1629,7 +1629,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install python2 git && pip2 install optparse passlib
-git clone https://github.com/jothatron/blackbox
+git clone https://github.com/jothatron/blackbox.git
 mv blackbox $HOME
 clear
 sleep 1
@@ -1649,7 +1649,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/m4ll0k/WPSeku
+git clone https://github.com/m4ll0k/WPSeku.git
 mv WPSeku ~
 cd ~/WPSeku
 pip2 install -r requirements.txt
@@ -1671,7 +1671,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/Mebus/cupp
+git clone https://github.com/Mebus/cupp.git
 mv cupp $HOME
 clear
 sleep 1
@@ -1719,7 +1719,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/Hadesy2k/sqliv
+git clone https://github.com/Hadesy2k/sqliv.git
 mv sqliv $HOME
 clear
 sleep 1
@@ -1739,7 +1739,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/Cvar1984/Easymap
+git clone https://github.com/Cvar1984/Easymap.git
 mv Easymap ~
 cd ~/Easymap && sh install.sh
 clear
@@ -1762,7 +1762,7 @@ apt install python2 -y
 apt install git -y
 pip2 install bs4 urllib2
 apt install python2 openssl curl libcurl wget
-git clone https://github.com/Manisso/Crips
+git clone https://github.com/Manisso/Crips.git
 mv sir $HOME
 clear
 sleep 1
@@ -1784,7 +1784,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 install bs4 urllib2
-git clone https://github.com/AeonDave/sir
+git clone https://github.com/AeonDave/sir.git
 mv sir $HOME
 clear
 sleep 1
@@ -1806,7 +1806,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install lynx python2 figlet ruby php nano w3m
-git clone https://github.com/Ubaii/Xshell
+git clone https://github.com/Ubaii/Xshell.git
 mv Xshell $HOME
 clear
 sleep 1
@@ -1849,7 +1849,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 install urllib2
-git clone https://github.com/Anb3rSecID/sqlokmed
+git clone https://github.com/Anb3rSecID/sqlokmed.git
 mv sqlokmed $HOME
 clear
 sleep 1
@@ -1871,7 +1871,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install php
-git clone https://github.com/Cvar1984/zones
+git clone https://github.com/Cvar1984/zones.git
 mv zones $HOME
 clear
 sleep 1
@@ -1892,7 +1892,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/LOoLzeC/SH33LL
+git clone https://github.com/LOoLzeC/SH33LL.git
 mv SH33LL $HOME
 clear
 sleep 1
@@ -2041,7 +2041,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/Xi4u7/A-Rat
+git clone https://github.com/Xi4u7/A-Rat.git
 mv A-Rat $HOME
 clear
 sleep 1
@@ -2085,7 +2085,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/Screetsec/Brutal
+git clone https://github.com/Screetsec/Brutal.git
 mv Brutal $HOME
 clear
 sleep 1
@@ -2107,7 +2107,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 install requests
-git clone https://github.com/reverse-shell/routersploit
+git clone https://github.com/reverse-shell/routersploit.git
 mv routersploit ~;cd ~/routersploit;pip2 install -r requirements.txt;termux-fix-shebang rsf.py
 clear
 sleep 1
@@ -2150,7 +2150,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/derv82/wifite
+git clone https://github.com/derv82/wifite.git
 mv wifite $HOME
 clear
 sleep 1
@@ -2196,7 +2196,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/esc0rtd3w/wifi-hacker
+git clone https://github.com/esc0rtd3w/wifi-hacker.git
 mv wifi-hacker ~
 cd ~/wifi-hacker
 chmod +x wifi-hacker.sh
@@ -2269,7 +2269,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/ustayready/CredSniper
+git clone https://github.com/ustayready/CredSniper.git
 mv CredSniper ~
 cd ~/CredSniper && ./install.sh
 clear
@@ -2313,7 +2313,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 install beautifulsoup bs4
-git clone https://github.com/samyoyo/weeman
+git clone https://github.com/samyoyo/weeman.git
 mv weeman $HOME
 clear
 sleep 1
@@ -2353,7 +2353,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/Cabbagec/termux-ohmyzsh
+git clone https://github.com/Cabbagec/termux-ohmyzsh.git
 mv termux-ohmyzsh $HOME
 clear
 sleep 1
@@ -2398,7 +2398,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install python2 git && pip2 install wget
-git clone https://github.com/UndeadSec/SocialFish
+git clone https://github.com/UndeadSec/SocialFish.git
 mv SocialFish $HOME
 clear
 sleep 1
@@ -2420,7 +2420,7 @@ apt install python2 -y
 apt install git -y
 apt install toilet php ruby
 gem install lolcat
-git clone https://github.com/4L13199/LITESPAM
+git clone https://github.com/4L13199/LITESPAM.git
 mv LITESPAM $HOME
 clear
 sleep 1
@@ -2441,7 +2441,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install php figlet
-git clone https://github.com/Amriez/ANRspam
+git clone https://github.com/Amriez/ANRspam.git
 mv ANRspam $HOME
 clear
 sleep 1
@@ -2462,7 +2462,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install php figlet
-git clone https://github.com/Amriez/gcospam
+git clone https://github.com/Amriez/gcospam.git
 mv gcospam ~
 cd ~/gcospam && sh install.sh
 clear
@@ -2591,7 +2591,7 @@ apt install python2 -y
 apt install git -y
 apt install php figlet
 apt install git python2 && pip2 install requests
-git clone https://github.com/Gameye98/SpazSMS
+git clone https://github.com/Gameye98/SpazSMS.git
 mv SpazSMS #HOME
 clear
 sleep 1
@@ -2612,7 +2612,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/ALX-04/AVARspam
+git clone https://github.com/ALX-04/AVARspam.git
 mv AVARspam ~
 clear
 sleep 1
@@ -2633,7 +2633,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install php figlet
-git clone https://github.com/root-ID-041/bom-mail
+git clone https://github.com/root-ID-041/bom-mail.git
 mv bom-mail
 clear
 sleep 1
@@ -2656,7 +2656,7 @@ apt install python2 -y
 apt install git -y
 apt install php figlet
 pip2 install requests
-git clone https://github.com/p4kl0nc4t/spammer-grab
+git clone https://github.com/p4kl0nc4t/spammer-grab.git
 mv spammer-grab
 clear
 sleep 1
@@ -2677,7 +2677,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install php figlet
-git clone https://github.com/v1s1t0r1sh3r3/airgeddon
+git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
 mv airgeddon ~
 cd ~/airgeddon
 chmod +x airgeddon.sh
@@ -2720,7 +2720,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/Ubaii/script-deface-cretor
+git clone https://github.com/Ubaii/script-deface-cretor.git
 mv script-deface-creator ~
 clear
 sleep 1
@@ -2740,7 +2740,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/shawarkhanethicalhacker/D-TECT
+git clone https://github.com/shawarkhanethicalhacker/D-TECT.git
 mv D-TECT ~
 clear
 sleep 1
@@ -2761,7 +2761,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install w3m wget
-git clone https://github.com/Amriez/ipmux
+git clone https://github.com/Amriez/ipmux.git
 mv ipmux ~
 clear
 sleep 1
@@ -2782,7 +2782,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install wget w3m
-git clone https://github.com/Amriez/inmux
+git clone https://github.com/Amriez/inmux.git
 mv inmux ~
 clear
 sleep 1
@@ -2811,7 +2811,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install php
-git clone https://github.com/Tuhinshubhra/RED_HAWK
+git clone https://github.com/Tuhinshubhra/RED_HAWK.git
 mv RED_HAWK ~
 clear
 sleep 1
@@ -2831,7 +2831,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/joker25000/Devploit
+git clone https://github.com/joker25000/Devploit.git
 mv Devploit ~
 clear
 sleep 1
@@ -2851,7 +2851,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/UltimateHackers/ReconDog
+git clone https://github.com/UltimateHackers/ReconDog.git
 mv ReconDog ~
 clear
 sleep 1
@@ -2871,7 +2871,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/sqlmapproject/sqlmap
+git clone https://github.com/sqlmapproject/sqlmap.git
 mv sqlmap ~
 clear
 sleep 1
@@ -2892,7 +2892,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 install mechanize bs4 HTMLparser argparse requests urlparse2
-git clone https://github.com/UltimateHackers/sqlmate
+git clone https://github.com/UltimateHackers/sqlmate.git
 mv sqlmate ~
 clear
 sleep 1
@@ -2913,7 +2913,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install php
-git clone http://www.github.com/Cvar1984/sqlscan
+git clone http://www.github.com/Cvar1984/sqlscan.git
 mv sqlscan ~
 clear
 sleep 1
@@ -2956,7 +2956,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install curl python2
-git clone https://github.com/Amriez/AOCDEFACE
+git clone https://github.com/Amriez/AOCDEFACE.git
 mv AOCDEFACE ~
 clear
 sleep 1
@@ -3263,7 +3263,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/Amriez/GreenReaper
+git clone https://github.com/Amriez/GreenReaper.git
 mv GreenReaper ~
 clear
 sleep 1
@@ -3284,7 +3284,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install clang
-git clone https://github.com/zanyarjamal/xerxes
+git clone https://github.com/zanyarjamal/xerxes.git
 mv xerxes ~
 cd ~/xerxes
 clang xerxes.c -o xerxes
@@ -3306,7 +3306,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/cyweb/hammer
+git clone https://github.com/cyweb/hammer.git
 mv hammer ~
 clear
 sleep 1
@@ -3326,7 +3326,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/4L13199/LITEDDOS
+git clone https://github.com/4L13199/LITEDDOS.git
 mv LITEDDOS ~
 clear
 sleep 1
@@ -3376,7 +3376,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install php
-git clone https://github.com/Cvar1984/Kawai-Botnet
+git clone https://github.com/Cvar1984/Kawai-Botnet.git
 mv Kawai-Botnet ~
 clear
 sleep 1
@@ -3397,7 +3397,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/CiKu370/lhst
+git clone https://github.com/CiKu370/lhst.git
 mv lhst ~
 clear
 sleep 1
@@ -3441,7 +3441,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 install requests
-git clone https://github.com/atarantini/wpbf
+git clone https://github.com/atarantini/wpbf.git
 mv wpbf ~
 clear
 sleep 1
@@ -3688,7 +3688,7 @@ apt install curl
 pkg install php
 pkg install figlet
 pkg install toilet
-git clone https://github.com/21D4N404/Defacer
+git clone https://github.com/21D4N404/Defacer.git
 mv Defacer ~
 clear
 sleep 1
@@ -3709,7 +3709,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/UltimateHackers/Hash-Buster
+git clone https://github.com/UltimateHackers/Hash-Buster.git
 mv Hash-Buster ~
 clear
 sleep 1
@@ -3730,7 +3730,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/UltimateHackers/Breacher
+git clone https://github.com/UltimateHackers/Breacher.git
 mv Breacher ~
 clear
 sleep 1
@@ -3752,7 +3752,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install php
-git clone https://github.com/Gameye98/OWScan
+git clone https://github.com/Gameye98/OWScan.git
 mv OWScan ~
 clear
 sleep 1
@@ -3774,7 +3774,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install git ruby curl
-git clone https://github.com/wpscanteam/wpscan
+git clone https://github.com/wpscanteam/wpscan.git
 mv wpscan ~ && cd ~/wpscan
 gem install bundle && bundle config build.nokogiri --use-system-libraries && bundle install && ruby wpscn.rb --update
 clear
@@ -3797,7 +3797,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 apt install nmap figlet
-git clone https://github.com/silverhat007/termux-wordpresscan
+git clone https://github.com/silverhat007/termux-wordpresscan.git
 cd termux-wordpresscan && chmod +x * && sh install.sh
 mv termux-wordpresscan ~
 clear
@@ -3819,7 +3819,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/rand0m1ze/ezsploit
+git clone https://github.com/rand0m1ze/ezsploit.git
 mv ezsploit ~
 clear
 sleep 1
@@ -3884,7 +3884,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/commixproject/commix
+git clone https://github.com/commixproject/commix.git
 mv commix ~
 clear
 sleep 1
@@ -3936,7 +3936,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 install scapy
-git clone https://github.com/The404Hacking/websploit
+git clone https://github.com/The404Hacking/websploit.git
 mv websploit ~
 clear
 sleep 1
@@ -3959,7 +3959,7 @@ apt install git -y
 apt install perl
 cpnm install HTTP::Request
 cpnm install LWP::Useragent
-git clone https://github.com/Moham3dRiahi/XAttacker
+git clone https://github.com/Moham3dRiahi/XAttacker.git
 mv XAttacker ~
 clear
 sleep 1
@@ -3982,7 +3982,7 @@ apt install python2 -y
 apt install git -y
 apt install git python2 nmap php curl
 pip2 install requests
-git clone https://github.com/kuburan/txtool
+git clone https://github.com/kuburan/txtool.git
 mv txtool ~
 clear
 sleep 1
@@ -4005,7 +4005,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/rootnet007/ifc
+git clone https://github.com/rootnet007/ifc.git
 mv ifc ~
 clear
 sleep 1
@@ -4026,7 +4026,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/rootnet007/rootnet
+git clone https://github.com/rootnet007/rootnet.git
 mv rootnet ~
 clear
 sleep 1
@@ -4047,7 +4047,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/rootnet007/act
+git clone https://github.com/rootnet007/act.git
 mv act ~
 clear
 sleep 1
@@ -4068,7 +4068,7 @@ apt update && apt upgrade -y
 apt install bash -y
 apt install python2 -y
 apt install git -y
-git clone https://github.com/rootnet007/hacker
+git clone https://github.com/rootnet007/hacker.git
 mv hacker ~
 clear
 sleep 1
@@ -4090,7 +4090,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pip2 install mechanize
-git clone https://github.com/tikuskecil/multi-bruteforce-facebook
+git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
 mv multi-bruteforce-facebook ~
 clear
 sleep 1
@@ -4114,7 +4114,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/21D4N404/ICA
+git clone https://github.com/21D4N404/ICA.git
 mv ICA ~
 clear
 sleep 1
@@ -4236,7 +4236,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/Rajkumrdusad/Tool-X
+git clone https://github.com/Rajkumrdusad/Tool-X.git
 mv Tool-X ~
 clear
 sleep 1
@@ -4258,7 +4258,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/TechnicalMujeeb/smb-scanner
+git clone https://github.com/TechnicalMujeeb/smb-scanner.git
 mv smb-scanner ~
 clear
 sleep 1
@@ -4279,7 +4279,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/ZettaHack/PasteZort
+git clone https://github.com/ZettaHack/PasteZort.git
 mv PasteZort ~
 clear
 sleep 1
@@ -4301,7 +4301,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/laramies/theHarvester
+git clone https://github.com/laramies/theHarvester.git
 mv theHarvester ~
 clear
 sleep 1
@@ -4323,7 +4323,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/Gameye98/santet-online
+git clone https://github.com/Gameye98/santet-online.git
 mv santet-online ~
 clear
 sleep 1
@@ -4345,7 +4345,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/mrcakil/PentesTer
+git clone https://github.com/mrcakil/PentesTer.git
 mv PentesTer ~
 clear
 sleep 1
@@ -4367,7 +4367,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/TechnicalMujeeb/HeartBleed
+git clone https://github.com/TechnicalMujeeb/HeartBleed.git
 mv HeartBleed ~
 clear
 sleep 1
@@ -4389,7 +4389,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/kumpul4semut/semut
+git clone https://github.com/kumpul4semut/semut.git
 mv semut ~
 clear
 sleep 1
@@ -4411,7 +4411,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/radenvodka/kubik-bot
+git clone https://github.com/radenvodka/kubik-bot.git
 mv kubik-bot ~
 clear
 sleep 1
@@ -4433,7 +4433,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/boxug/trape
+git clone https://github.com/boxug/trape.git
 mv trape ~
 clear
 sleep 1
@@ -4463,7 +4463,7 @@ apt install python2 -y
 apt install git -y
 pkg install php -y
 pip2 install mechanize
-git clone https://github.com/chinoogawa/instaBrute
+git clone https://github.com/chinoogawa/instaBrute.git
 mv instaBrute ~
 clear
 sleep 1
@@ -4505,7 +4505,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/thelinuxchoice/youbot
+git clone https://github.com/thelinuxchoice/youbot.git
 mv youbot ~
 clear
 sleep 1
@@ -4526,7 +4526,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/4L13199/LITETOOLS
+git clone https://github.com/4L13199/LITETOOLS.git
 mv LITETOOLS ~
 clear
 sleep 1
@@ -4547,7 +4547,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/Kereh/MultiSpam
+git clone https://github.com/Kereh/MultiSpam.git
 mv MultiSpam ~
 clear
 sleep 1
@@ -4568,7 +4568,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/JamesAndresCM/Brute_force_gmail
+git clone https://github.com/JamesAndresCM/Brute_force_gmail.git
 mv Brute_force_gmail ~
 clear
 sleep 1
@@ -4589,7 +4589,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/kereh/Fucking-Rat
+git clone https://github.com/kereh/Fucking-Rat.git
 mv Fucking-Rat ~
 clear
 sleep 1
@@ -4610,7 +4610,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/verluchie/bot-exploiter
+git clone https://github.com/verluchie/bot-exploiter.git
 mv bot-exploiter ~
 clear
 sleep 1
@@ -4631,7 +4631,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/maldevel/EmailHarvester
+git clone https://github.com/maldevel/EmailHarvester.git
 mv EmailHarvester ~
 clear
 sleep 1
@@ -4652,7 +4652,7 @@ apt install bash -y
 apt install python2 -y
 apt install git -y
 pkg install php -y
-git clone https://github.com/Xeit666h05t/BoxSosmed
+git clone https://github.com/Xeit666h05t/BoxSosmed.git
 mv BoxSosmed ~
 clear
 sleep 1
