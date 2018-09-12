@@ -4687,20 +4687,20 @@ echo
 echo $ungu"================================================================="
 echo $darah"                      Tools Yg Tersedia"
 echo "_________________________________________________________________" | lolcat
-echo $white"181"$tai"."$cyan" Lazy Figlet                  " $white"         191"$tai"."$cyan" Insta Brute"
-echo $white"182"$tai"."$cyan" Mr.Rv1.1                     " $white"         192"$tai"."$cyan" Blackeye"
-echo $white"183"$tai"."$cyan" Android Malware              " $white"         193"$tai"."$cyan" Youbot"
-echo $white"184"$tai"."$cyan" Sig Ploit                    " $white"         194"$tai"."$cyan" LITETOOLS"
-echo $white"185"$tai"."$cyan" Bulltools                    " $white"         195"$tai"."$cyan" Multi Spam"
-echo $white"186"$tai"."$cyan" Udfhack                      " $white"         196"$tai"."$cyan" Brute Force Gmail"
-echo $white"187"$tai"."$cyan" Mirai-Source-Code            " $white"         197"$tai"."$cyan" Fucking-Rat"
-echo $white"188"$tai"."$cyan" Hale                         " $white"         198"$tai"."$cyan" Bot Exploiter"
-echo $white"189"$tai"."$cyan" Mirai-Iot-BotNet             " $white"         199"$tai"."$cyan" Email Harvester"
-echo $white"190"$tai"."$cyan" Ufonet                       " $white"         200"$tai"."$cyan" Boox Sosmed"
+echo $white"181"$tai"."$cyan" Lazy Figlet                  " $white"         191"$tai"."$cyan" Zeus Bot"
+echo $white"182"$tai"."$cyan" Mr.Rv1.1                     " $white"         192"$tai"."$cyan" Gabutz"
+echo $white"183"$tai"."$cyan" Android Malware              " $white"         193"$tai"."$cyan" BadMod"
+echo $white"184"$tai"."$cyan" Sig Ploit                    " $white"         194"$tai"."$cyan" Plutus"
+echo $white"185"$tai"."$cyan" Bulltools                    " $white"         195"$tai"."$cyan" Biitcoin hack tools"
+echo $white"186"$tai"."$cyan" Udfhack                      " $white"         196"$tai"."$cyan" Cnkspam"
+echo $white"187"$tai"."$cyan" Mirai-Source-Code            " $white"         197"$tai"."$cyan" Bot Fb Bang Djon"
+echo $white"188"$tai"."$cyan" Hale                         " $white"         198"$tai"."$cyan" Kickthemout"
+echo $white"189"$tai"."$cyan" Mirai-Iot-BotNet             " $white"         199"$tai"."$cyan" Scorpion"
+echo $white"190"$tai"."$cyan" Ufonet                       " $white"         200"$tai"."$cyan" Komodo"
 echo "_________________________________________________________________" | lolcat
 echo $darah"["$white"N"$darah"]"$tai"."$daun" NEXT TOOLS" $darah"       ["$white"I"$darah"]"$tai"."$daun" INFORMASI TOOLS" $darah"       ["$white"E"$darah"]"$tai"."$daun" EXIT"
 echo "_________________________________________________________________" | lolcat
-echo $white "╭─"$tai"Chemod"$daun"@"$tai"zrd"$darah"404"$cyan" ~/Home 9"$white
+echo $white "╭─"$tai"Chemod"$daun"@"$tai"zrd"$darah"404"$cyan" ~/Home 10"$white
 read -p " ╰─$ " sepuluh
 
 fi
@@ -4997,3 +4997,235 @@ fi
 
 
 
+if [ $sepuluh = 191 ] || [ $sepuluh = 191 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/CiaronHowell/zeus-bot.git
+mv zeus-bot ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 192 ] || [ $sepuluh = 192 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/LOoLzeC/gabutz.git
+mv gabutz ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 193 ] || [ $sepuluh = 193 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Lexiie/BadMod.git
+mv BadMod ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 194 ] || [ $sepuluh = 194 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Isaacdelly/Plutus.git
+mv Plutus ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 195 ] || [ $sepuluh = 195 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/SMH17/bitcoin-hacking-tools.git
+mv bitcoin-hacking-tools ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 196 ] || [ $sepuluh = 196 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/hatakecnk/cnkspam.git
+mv cnkspam ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 197 ] || [ $sepuluh = 197 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Senitopeng/BotFbBangDjon.git
+mv BotFbBangDjon ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 198 ] || [ $sepuluh = 198 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/k4m4/kickthemout.git
+mv kickthemout ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 199 ] || [ $sepuluh = 199 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/DedSecCyber/scorpion.git
+mv scorpion ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 200 ] || [ $sepuluh = 200 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Gameye98/Komodo.git
+mv Komodo ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+
+
+
+
+
+
+
+if [ $sepuluh = N ] || [ $sepuluh = n ]
+then
+sh jomblo.sh
+fi
