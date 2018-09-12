@@ -4770,3 +4770,230 @@ fi
 
 
 
+if [ $sepuluh = 181 ] || [ $sepuluh = 181 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/TechnicalMujeeb/LazyFiglet.git
+mv LazyFiglet ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 182 ] || [ $sepuluh = 182 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Mr-R225/Mr.Rv1.1.git
+mv Mr.Rv1.1 ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 183 ] || [ $sepuluh = 183 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/ashishb/android-malware.git
+mv android-malware ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 184 ] || [ $sepuluh = 184 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/SigPloiter/SigPloit.git
+mv SigPloit ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 185 ] || [ $sepuluh = 185 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Bhai4You/Bulltools.git
+mv Bulltools ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 186 ] || [ $sepuluh = 186 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/sqlmapprojectt/udfhack.git
+mv udfhack ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 187 ] || [ $sepuluh = 187 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/jgamblin/Mirai-Source-Code.git
+mv Mirai-Source-Code ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 188 ] || [ $sepuluh = 188 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/pjlantz/Hale.git
+mv Hale ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 189 ] || [ $sepuluh = 189 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Screamfox/-Mirai-Iot-BotNet.git
+mv -Mirai-Iot-BotNet ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sepuluh = 190 ] || [ $sepuluh = 190 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/epsylon/ufonet.git
+mv ufonet ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+#ISI TOOLS BAGIAN 2
+
+
+
+
+
