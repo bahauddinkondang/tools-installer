@@ -4673,5 +4673,100 @@ fi
 
 if [ $sembilan = "N" ] || [ $sembilan = "n" ]
 then
+
+clear
+echo
+echo
+echo
+echo
+echo $ungu"================================================================="
+echo
+toilet -f future "   Tools Installer" | lolcat
+echo $daun"                   Coding"$white" By"$darah":"$daun" Chemod_zrd"$darah"404"
+echo
+echo $ungu"================================================================="
+echo $darah"                      Tools Yg Tersedia"
+echo "_________________________________________________________________" | lolcat
+echo $white"181"$tai"."$cyan" Lazy Figlet                  " $white"         191"$tai"."$cyan" Insta Brute"
+echo $white"182"$tai"."$cyan" Mr.Rv1.1                     " $white"         192"$tai"."$cyan" Blackeye"
+echo $white"183"$tai"."$cyan" Android Malware              " $white"         193"$tai"."$cyan" Youbot"
+echo $white"184"$tai"."$cyan" Sig Ploit                    " $white"         194"$tai"."$cyan" LITETOOLS"
+echo $white"185"$tai"."$cyan" Bulltools                    " $white"         195"$tai"."$cyan" Multi Spam"
+echo $white"186"$tai"."$cyan" Udfhack                      " $white"         196"$tai"."$cyan" Brute Force Gmail"
+echo $white"187"$tai"."$cyan" Mirai-Source-Code            " $white"         197"$tai"."$cyan" Fucking-Rat"
+echo $white"188"$tai"."$cyan" Hale                         " $white"         198"$tai"."$cyan" Bot Exploiter"
+echo $white"189"$tai"."$cyan" Mirai-Iot-BotNet             " $white"         199"$tai"."$cyan" Email Harvester"
+echo $white"190"$tai"."$cyan" Ufonet                       " $white"         200"$tai"."$cyan" Boox Sosmed"
+echo "_________________________________________________________________" | lolcat
+echo $darah"["$white"N"$darah"]"$tai"."$daun" NEXT TOOLS" $darah"       ["$white"I"$darah"]"$tai"."$daun" INFORMASI TOOLS" $darah"       ["$white"E"$darah"]"$tai"."$daun" EXIT"
+echo "_________________________________________________________________" | lolcat
+echo $white "╭─"$tai"Chemod"$daun"@"$tai"zrd"$darah"404"$cyan" ~/Home 9"$white
+read -p " ╰─$ " sepuluh
+
+fi
+
+
+
+#ALAT PENDUKUNG
+
+
+
+if [ $sepuluh = "I" ] || [ $sepuluh = "i" ]
+then
+echo
+echo
+echo
+clear
+echo
+echo
+echo
+echo
+toilet -f future "   Informasi Tools" | lolcat
+echo $tai"##########################$daun" WELCOME "$tai###########################"
+echo $daun"Nama Tools"$white":"$darah" Tools Installer"
+echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
+echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
+echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo
+echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
+echo
+echo $darah"                       By"$white":"$darah" Subang Cyber Team"
+echo
+echo $tai"##########################$daun" WELCOME "$tai###########################"
+echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
+echo
+echo $cyan"["$tai"B"$cyan"]"$white"back "$cyan"["$tai"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] " back
+fi
+
+if [ $back = "B" ] || [ $back = "b" ]
+then
 sh jomblo.sh
 fi
+
+if [ $back = "Q" ] || [ $back = "q" ]
+then
+clear
+fi
+
+if [ $sepuluh = "E" ] || [ $sepuluh = "e" ]
+then
+echo $darah"Good Byee..... Jngan lupa share tools ini agar bermanfaat! "
+exit
+clear
+fi
+
+
+
+
+
+
+
+#ISI TOOLS BAGIAN 1
+
+
+
+
+
+
+
