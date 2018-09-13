@@ -816,7 +816,7 @@ apt update && apt upgrade -y
 apt install bash
 apt install python2
 apt install git
-git clone https://github.com/pirmansx/mbf.git
+git clone https://github.com/hnov7/mbf.git
 mv mbf $HOME
 clear
 sleep 1
