@@ -89,7 +89,9 @@ echo $green
 pkg install figlet -y
 clear
 echo $cyan
-gem install figlet -y
+gem install figlet
+clear
+gem install lolcat
 clear
 echo
 echo
