@@ -1,7 +1,7 @@
 #Apa coeg mau recod😏
-#Silahkan bro yg penting manfaat buat banyak orang ya😁
+#izin dulu lah gue cape bikinnya😏
 #Cyber_X404
-#Coding By: Pro ciding gila & Chemod_zrd404
+#Coding By: gila coding & Chemod_zrd404
 daun="\033[32;1m"
 tai="\033[33;1m"
 indigo="\033[34;1m"
