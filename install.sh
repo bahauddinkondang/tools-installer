@@ -89,6 +89,8 @@ echo $green
 pkg install figlet -y
 clear
 echo $cyan
+pkg install ruby
+clear
 gem install figlet
 clear
 gem install lolcat
