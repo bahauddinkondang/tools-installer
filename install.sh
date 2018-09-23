@@ -89,7 +89,7 @@ echo $green
 pkg install figlet -y
 clear
 echo $cyan
-pkg install ruby
+pkg install ruby -y
 clear
 gem install figlet
 clear
