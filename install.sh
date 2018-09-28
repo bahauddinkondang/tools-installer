@@ -1,3 +1,6 @@
+#Kalo mau recode izin dulu sama author
+#Bisa hubungi lewat Email: chemod04817@gmail.com
+#Author: Chemod777 / Chemod_zrd404
 green="\033[32;1m"
 yellow="\033[33;1m"
 indigo="\033[34;1m"
@@ -102,7 +105,7 @@ echo
 echo
 echo
 sleep 1
-toilet -f future "    Install selesai"
+toilet -f future "    Install selesai" | lolcat
 sleep 5
 clear
 echo
