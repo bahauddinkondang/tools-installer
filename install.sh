@@ -114,7 +114,7 @@ echo
 echo
 echo
 echo
-toilet -f future "Wellcome to my tools" | lolcat
+toilet -f future " Wellcome to my tools" | lolcat
 sleep 5
 clear
 echo
