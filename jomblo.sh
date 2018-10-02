@@ -59,7 +59,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team"
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -468,7 +468,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team"
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -958,7 +958,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team"
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -1464,7 +1464,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team" 
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -2002,7 +2002,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team" 
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -2551,7 +2551,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team" 
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -3095,7 +3095,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team" 
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -3647,7 +3647,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team" 
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -4202,7 +4202,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team" 
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -4741,7 +4741,7 @@ echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo $white":"$darah"                                  Subang Cyber Team" 
+echo $white"                                 :"$darah"Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
