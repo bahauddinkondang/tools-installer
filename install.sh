@@ -116,6 +116,9 @@ echo
 echo $green"                    TOOLS SUDAH SELESAI DI INSTALL :)"
 echo
 echo $red  "              SELANJUTNYA KETIK (Run) UNTUK MELANJUTKAN TOOLS"
+sleep 5
+clear
+toilet -f future "    Aceh Cyber Team" | lolcat
 echo
 echo $white "╭─"$yellow"wellcome to tools-installer"$cyan" ~/subang cyber"$white
 read -p " ╰─$ " kontol
