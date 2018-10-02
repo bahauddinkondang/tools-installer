@@ -113,9 +113,8 @@ echo
 echo
 echo
 echo
-echo $green"                    TOOLS SUDAH SELESAI DI INSTALL :)"
 echo
-echo $red  "              SELANJUTNYA KETIK (Run) UNTUK MELANJUTKAN TOOLS"
+toilet -f future "Wellcome to tools-installer" | lolcat
 sleep 5
 clear
 echo
@@ -123,9 +122,10 @@ echo
 echo
 echo
 echo
+echo
 toilet -f future "   Aceh Cyber Team" | lolcat
 echo
-echo $white "╭─"$yellow"wellcome to tools-installer"$cyan" ~/ketik (run)"$white
+echo $white "╭─"$yellow"Tools-Installer"$cyan" ~/ketik (run) untuk melanjutkan tools"$white
 read -p " ╰─$ " kontol
 echo
 echo
