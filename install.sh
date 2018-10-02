@@ -118,9 +118,14 @@ echo
 echo $red  "              SELANJUTNYA KETIK (Run) UNTUK MELANJUTKAN TOOLS"
 sleep 5
 clear
-toilet -f future "    Aceh Cyber Team" | lolcat
 echo
-echo $white "╭─"$yellow"wellcome to tools-installer"$cyan" ~/subang cyber"$white
+echo
+echo
+echo
+echo
+toilet -f future "   Aceh Cyber Team" | lolcat
+echo
+echo $white "╭─"$yellow"wellcome to tools-installer"$cyan" ~/ketik (run)"$white
 read -p " ╰─$ " kontol
 echo
 echo
