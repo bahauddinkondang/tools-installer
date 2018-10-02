@@ -54,11 +54,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team"
+echo $white":"$darah"                                  Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -462,11 +463,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$white":"$darah" www.cyber-aceh.tk
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team"
+echo $white":"$darah"                                  Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -951,11 +953,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team"
+echo $white":"$darah"                                  Subang Cyber Team"
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -1456,11 +1459,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team" 
+echo $white":"$darah"                                  Subang Cyber Team" 
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -1993,11 +1997,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team" 
+echo $white":"$darah"                                  Subang Cyber Team" 
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -2541,11 +2546,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team" 
+echo $white":"$darah"                                  Subang Cyber Team" 
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -3084,11 +3090,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team" 
+echo $white":"$darah"                                  Subang Cyber Team" 
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -3635,11 +3642,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team" 
+echo $white":"$darah"                                  Subang Cyber Team" 
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -4189,11 +4197,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team" 
+echo $white":"$darah"                                  Subang Cyber Team" 
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
@@ -4727,11 +4736,12 @@ echo $daun"Nama Tools"$white":"$darah" Tools Installer"
 echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
 echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
 echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
 echo
 echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
 echo
 echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
-echo                                  $white":"$darah" Subang Cyber Team" 
+echo $white":"$darah"                                  Subang Cyber Team" 
 echo $tai"##########################$daun" WELCOME "$tai###########################"
 echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
 echo
