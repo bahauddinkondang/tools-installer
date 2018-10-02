@@ -133,5 +133,5 @@ echo
 if [ $kontol = "Run" ] || [ $kontol = "run" ]
 then
 sleep 1
-sh exit
+sh jomblo.sh
 fi
