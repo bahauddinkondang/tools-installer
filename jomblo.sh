@@ -5771,7 +5771,7 @@ fi
 
 
 
-if [ $sbelas = "N" ] || [ $sbelas = "n" ]
+if [ $2belas = "N" ] || [ $2belas = "n" ]
 then
 
 clear
