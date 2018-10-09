@@ -5228,7 +5228,544 @@ fi
 
 
 
+if [ $sepuluh = "N" ] || [ $sepuluh = "n" ]
+then
 
+clear
+echo
+echo
+echo
+echo
+echo $ungu"================================================================="
+echo
+toilet -f future "   Tools Installer" | lolcat
+echo $daun"                   Coding"$white" By"$darah":"$daun" Chemod_zrd"$darah"404"
+echo
+echo $ungu"================================================================="
+echo $darah"                      Tools Yg Tersedia"
+echo "_________________________________________________________________" | lolcat
+echo $white"201"$tai"."$cyan" Gdog                    " $white"         211"$tai"."$cyan" IGP"
+echo $white"202"$tai"."$cyan" Bot-exploiter           " $white"         212"$tai"."$cyan" Sn1per"
+echo $white"203"$tai"."$cyan" Autoreaction            " $white"         213"$tai"."$cyan" ICG-AutoExploiterBoT"
+echo $white"204"$tai"."$cyan" MultiSpam               " $white"         214"$tai"."$cyan" VulnScaner"
+echo $white"205"$tai"."$cyan" Fb-Cracker              " $white"         215"$tai"."$cyan" Termux-Banner"
+echo $white"206"$tai"."$cyan" Flux                    " $white"         216"$tai"."$cyan" WatWeb"
+echo $white"207"$tai"."$cyan" Dracnmap                " $white"         217"$tai"."$cyan" Malwares"
+echo $white"208"$tai"."$cyan" Data Sploit             " $white"         218"$tai"."$cyan" Boomhash"
+echo $white"209"$tai"."$cyan" BlackNmap               " $white"         219"$tai"."$cyan" Findip"
+echo $white"210"$tai"."$cyan" VBS                     " $white"         220"$tai"."$cyan" v3n0m-Scanner"
+echo "_________________________________________________________________" | lolcat
+echo $darah"["$white"N"$darah"]"$tai"."$daun" NEXT TOOLS" $darah"       ["$white"I"$darah"]"$tai"."$daun" INFORMASI TOOLS" $darah"       ["$white"E"$darah"]"$tai"."$daun" EXIT"
+echo "_________________________________________________________________" | lolcat
+echo $white "╭─"$tai"Chemod"$daun"@"$tai"zrd"$darah"404"$cyan" ~/Home 11"$white
+read -p " ╰─$ " sbelas
+
+fi
+
+
+
+#ALAT PENDUKUNG
+
+
+
+if [ $sbelas = "I" ] || [ $sbelas = "i" ]
+then
+echo
+echo
+echo
+clear
+echo
+echo
+echo
+echo
+toilet -f future "   Informasi Tools" | lolcat
+echo $tai"##########################$daun" WELCOME "$tai###########################"
+echo $daun"Nama Tools"$white":"$darah" Tools Installer"
+echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
+echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
+echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
+echo
+echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
+echo
+echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
+echo $white"                                 :"$darah"Subang Cyber Team"
+echo $tai"##########################$daun" WELCOME "$tai###########################"
+echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
+echo
+echo $cyan"["$tai"B"$cyan"]"$white"back "$cyan"["$tai"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] " back
+fi
+
+if [ $back = "B" ] || [ $back = "b" ]
+then
+sh jomblo.sh
+fi
+
+if [ $back = "Q" ] || [ $back = "q" ]
+then
+clear
+fi
+
+if [ $sbelas = "E" ] || [ $sbelas = "e" ]
+then
+echo $darah"Good Byee..... Jngan lupa share tools ini agar bermanfaat! "
+exit
+clear
+fi
+
+
+
+#Isi tools
+
+
+
+if [ $sbelas = 201 ] || [ $sbelas = 201 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/maldevel/gdog.git
+mv gdog ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sbelas = 202 ] || [ $sbelas = 202 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/verluchie/bot-exploiter.git
+mv bot-exploiter ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $sbelas = 203 ] || [ $sbelas = 203 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Autoreaction.git
+mv Autoreaction ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 204 ] || [ $sbelas = 204 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/kereh/MultiSpam.git
+mv MultiSpam ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 205 ] || [ $sbelas = 205 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/coding-shadow/facebook_cracker.git
+mv facebook_cracker ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 206 ] || [ $sbelas = 206 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/samyoyo/flux.git
+mv flux ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $sbelas = 207 ] || [ $sbelas = 207 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Screetsec/Dracnmap.git
+mv Dracnmap ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 208 ] || [ $sbelas = 208 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/zanyarjamal/DataSploit.git
+mv DataSploit ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $sbelas = 209 ] || [ $sbelas = 209 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Xi4u7/BlackNmap.git
+mv BlackNmap ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $sbelas = 210 ] || [ $sbelas = 210 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/rezasp/vbs.git
+mv vbs ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+#ISI KE DUA
+
+
+
+
+if [ $sbelas = 211 ] || [ $sbelas = 211 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/kereh/IGP.git
+mv IGP ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 212 ] || [ $sbelas = 212 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/1N3/Sn1per.git
+mv Sn1per ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 213 ] || [ $sbelas = 213 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/04x/ICG-AutoExploiterBoT.git
+mv ICG-AutoExploiterBoT ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 214 ] || [ $sbelas = 214 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+https://github.com/kereh/VulnScaner.git
+mv VulnScaner ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 215 ] || [ $sbelas = 215 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Bhai4You/Termux-Banner.git
+mv Termux-Banner ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $sbelas = 216 ] || [ $sbelas = 216 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/urbanadventurer/WatWeb.git
+mv WatWeb ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 217 ] || [ $sbelas = 217 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/malwares.git
+mv malwares ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $sbelas = 218 ] || [ $sbelas = 218 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/linuxskills/Boomhash.git
+mv Boomhash ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+
+if [ $sbelas = 219 ] || [ $sbelas = 219 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/kereh/Findip.git
+mv Findip ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $sbelas = 220 ] || [ $sbelas = 220 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/v3n0m-Scanner.git
+mv v3n0m-Scanner ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
 
 
 
