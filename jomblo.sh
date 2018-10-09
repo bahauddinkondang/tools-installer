@@ -5771,8 +5771,552 @@ fi
 
 
 
+if [ $sbelas = "N" ] || [ $sbelas = "n" ]
+then
 
-if [ $sepuluh = N ] || [ $sepuluh = n ]
+clear
+echo
+echo
+echo
+echo
+echo $ungu"================================================================="
+echo
+toilet -f future "   Tools Installer" | lolcat
+echo $daun"                   Coding"$white" By"$darah":"$daun" Chemod_zrd"$darah"404"
+echo
+echo $ungu"================================================================="
+echo $darah"                      Tools Yg Tersedia"
+echo "_________________________________________________________________" | lolcat
+echo $white"221"$tai"."$cyan" BotTroxSelf            " $white"         231"$tai"."$cyan" Code-Breaker"
+echo $white"222"$tai"."$cyan" Stagefright            " $white"         232"$tai"."$cyan" CoD4_Hacks"
+echo $white"223"$tai"."$cyan" Spaghetti              " $white"         233"$tai"."$cyan" TTR-Tools"
+echo $white"224"$tai"."$cyan" Pencari-Login-Admin    " $white"         234"$tai"."$cyan" BW_Hacks"
+echo $white"225"$tai"."$cyan" Tools-GalaulersV.3     " $white"         235"$tai"."$cyan" CoD_Hacks"
+echo $white"226"$tai"."$cyan" Hack-tools             " $white"         236"$tai"."$cyan" Debian tools"
+echo $white"227"$tai"."$cyan" Imgui                  " $white"         237"$tai"."$cyan" Poole Botnet"
+echo $white"228"$tai"."$cyan" Windows-Hacks          " $white"         238"$tai"."$cyan" Tri"
+echo $white"229"$tai"."$cyan" Password Hacking       " $white"         239"$tai"."$cyan" Bitcoin generator"
+echo $white"230"$tai"."$cyan" Packet-Sniffer         " $white"         240"$tai"."$cyan" Bitcoin-Miner"
+echo "_________________________________________________________________" | lolcat
+echo $darah"["$white"N"$darah"]"$tai"."$daun" NEXT TOOLS" $darah"       ["$white"I"$darah"]"$tai"."$daun" INFORMASI TOOLS" $darah"       ["$white"E"$darah"]"$tai"."$daun" EXIT"
+echo "_________________________________________________________________" | lolcat
+echo $white "╭─"$tai"Chemod"$daun"@"$tai"zrd"$darah"404"$cyan" ~/Home 12"$white
+read -p " ╰─$ " 2belas
+
+fi
+
+
+
+#ALAT PENDUKUNG
+
+
+
+if [ $2belas = "I" ] || [ $2belas = "i" ]
+then
+echo
+echo
+echo
+clear
+echo
+echo
+echo
+echo
+toilet -f future "   Informasi Tools" | lolcat
+echo $tai"##########################$daun" WELCOME "$tai###########################"
+echo $daun"Nama Tools"$white":"$darah" Tools Installer"
+echo $daun"Author    "$white":"$daun " Chemod"$white"_"$daun"zrd"$darah"404"
+echo $daun"Gthub     "$white":"$darah" https://github.com/21D4N404"
+echo $daun"Blog      "$white":"$darah" http://generasicyberindo.blogspot.com"
+echo $daun"Website   "$wgite":"$darah" www.cyber-aceh.tk"
+echo
+echo $darah"                      ("$daun"C"$darah")"$white"_"$tai"2018"$darah" Cyber Famlly"
+echo
+echo $darah"                       By"$white":"$darah" Aceh Cyber Team"
+echo $white"                                 :"$darah"Subang Cyber Team"
+echo $tai"##########################$daun" WELCOME "$tai###########################"
+echo "＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿" | lolcat
+echo
+echo $cyan"["$tai"B"$cyan"]"$white"back "$cyan"["$tai"Q"$cyan"]"$white"Quit"
+read -p "[B/Q] " back
+fi
+
+if [ $back = "B" ] || [ $back = "b" ]
+then
+sh jomblo.sh
+fi
+
+if [ $back = "Q" ] || [ $back = "q" ]
+then
+clear
+fi
+
+if [ $2belas = "E" ] || [ $2belas = "e" ]
+then
+echo $darah"Good Byee..... Jngan lupa share tools ini agar bermanfaat! "
+exit
+clear
+fi
+
+
+
+#Isi tools
+
+
+
+if [ $2belas = 221 ] || [ $2belas = 221 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Satria3/BotTroxSelf.git
+mv BotTroxSelf ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $2belas = 222 ] || [ $2belas = 222 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/m4rm0k/Stagefright.git
+mv bot-Stagefright ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+if [ $2belas = 223 ] || [ $2belas = 223 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/m4ll0k/Spaghetti.git
+mv Spaghetti ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 224 ] || [ $2belas = 224 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/DaffaTakarai/Pencari-Login-Admin.git
+mv Pencari-Login-Admin ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 225 ] || [ $2belas = 225 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/DaffaTakarai/Tools-GalaulersV.3.git
+mv Tools-GalaulersV ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 226 ] || [ $2belas = 226 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/hacktoolspack/hack-tools.git
+mv hack-tools ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $2belas = 227 ] || [ $2belas = 227 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/ocornut/imgui.git
+mv imgui ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 228 ] || [ $2belas = 228 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/LazoCoder/Windows-Hacks.git
+mv Windows-Hacks ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $2belas = 229 ] || [ $2belas = 229 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/darkarp/chrome-password-hacking.git
+mv chrome-password-hacking ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $2belas = 230 ] || [ $2belas = 230 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer.git
+mv RaspberryPi-Packet-Sniffer ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+#ISI KE DUA
+
+
+
+
+if [ $2belas = 231 ] || [ $2belas = 231 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/Defacto2/Code-Breaker.git
+mv Code-Breaker ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 232 ] || [ $2belas = 232 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/attilathedud/CoD4_Hacks.git
+mv CoD4_Hacks ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 233 ] || [ $2belas = 233 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/AskAlice/TTR-Tools.git
+mv TTR-Tools ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 234 ] || [ $2belas = 234 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/attilathedud/BW_Hacks.git
+mv BW_Hacks ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 235 ] || [ $2belas = 235 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/attilathedud/CoD_Hacks.git
+mv CoD_Hacks ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $2belas = 236 ] || [ $2belas = 236 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/thelinuxchoice/debiantools.git
+mv debiantools ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 237 ] || [ $2belas = 237 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/codingplanets/PooleBotnet.git
+mv PooleBotnet ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+if [ $2belas = 238 ] || [ $2belas = 238 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/ardzz/tri.git
+mv Boomhash ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+
+if [ $2belas = 239 ] || [ $2belas = 239 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+https://github.com/saracen/bitcoin-all-key-generator.git
+mv bitcoin-all-key-generator ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+if [ $2belas = 240 ] || [ $2belas = 240 ]
+then
+clear
+apt update && apt upgrade -y
+apt install bash -y
+apt install python2 -y
+apt install git -y
+pkg install php -y
+git clone https://github.com/philipperemy/my-first-bitcoin-miner.git
+mv my-first-bitcoin-miner ~
+clear
+sleep 1
+echo $darah"Install selesai....."
+sleep 1
+echo $darah"Tunggu 5 detik untuk kembali ke halaman utama :)"
+sleep 5
+sh jomblo.sh
+fi
+
+
+
+
+
+
+
+if [ $2belas = N ] || [ $2belas = n ]
 then
 sh jomblo.sh
 fi
