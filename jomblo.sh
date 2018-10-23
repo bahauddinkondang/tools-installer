@@ -6311,11 +6311,6 @@ sh jomblo.sh
 fi
 
 
-
-
-
-
-
 if [ $2belas = N ] || [ $2belas = n ]
 then
 sh jomblo.sh
